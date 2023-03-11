@@ -2,6 +2,10 @@
 
 A personal project built with React and other tools to search users and view their profiles on Github. Nothing serious.
 
+## Live Demo
+
+-[Live Demo](https://surajbasnet-developer.github.io/Github-User-Search)
+
 ## License
 
 [MIT License]
